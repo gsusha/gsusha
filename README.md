@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ksenia Dyachenko
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Middle Front-end Developer</h3>
+<h3 align="center">Middle Frontend Developer</h3>
 <br>
 
 ### My technology stack:
